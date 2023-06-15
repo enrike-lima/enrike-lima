@@ -1,8 +1,6 @@
-### Hi there 👋
+### Olá Eu Sou o David Lima 👋
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 Atualmente Estudando Python ...
 
 
 <div>
